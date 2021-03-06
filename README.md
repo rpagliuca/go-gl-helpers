@@ -1,5 +1,5 @@
 # Author
-* Forked from: https://github.com/cstegel/opengl-samples-golang/materials
+* Forked from: https://github.com/cstegel/opengl-samples-golang
 * Original author: cstegel
 
 # About
